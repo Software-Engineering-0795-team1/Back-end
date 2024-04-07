@@ -1,5 +1,15 @@
 # 프로젝트 헌장
 
+## 목차
+1. [프로젝트 이름](#1.-프로젝트-이름)
+2. [프로젝트 목적과 당위성](#2.-프로젝트-목적과-당위성)
+3. [프로젝트의 목표, 범위 및 성공 기준](#3.-프로젝트의-목표,-범위-및-성공-기준)
+4. [일정 및 마일스톤 예측](#4.-일정-및-마일스톤-예측)
+5. [필요 자원](#5.-필요-자원)
+6. [예산 예측치](#6.-예산-예측치)
+7. [팀내 및 경영진에 대한 커뮤니케이션 계획](#7.-팀내-및-경영진에-대한-커뮤니케이션-계획)   
+8. [부록](부록)
+
 ## 1. 프로젝트 이름
 
 Link IT(링크 잇)
@@ -14,19 +24,19 @@ Link IT(링크 잇)
 
 현재 개발자, 기획자, 디자이너는 신입/경력 모두 프로젝트를 진행하려면 따로 아는 사람끼리 진행하거나 동아리에 참여하여 진행해야 하는데, 플랫폼으로 이용하여 사용자가 개발하고 싶은 아이디어를 직접 찾아 프로젝트에 참여하게 하면 이용자가 많을 것으로 예상된다. 
 
-![현재 본인의 희망 직군을 선택해 주세요 에 대한 응답](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/2bea00a7-79d2-4793-85a6-ba3d94af08de/Untitled.png)
+![현재 본인의 희망 직군을 선택해 주세요 에 대한 응답](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/bb361c9a-3c12-41ad-ae41-e4d611b5606e)
 
 현재 본인의 희망 직군을 선택해 주세요 에 대한 응답
 
-![평소 프로젝트 진행 혹은 참여에 관심이 있으신가요? 에 대한 응답](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/f2cb2cb0-149e-45f8-90d5-5f520bc75c24/Untitled.png)
+![평소 프로젝트 진행 혹은 참여에 관심이 있으신가요? 에 대한 응답](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/bd7cd917-cdae-410b-84c5-c527acb505c5)
 
 평소 프로젝트 진행 혹은 참여에 관심이 있으신가요? 에 대한 응답
 
-![기업들의 공개채욕 혹은 상시 채용 공지를 한 곳에 모아서 보여주는 웹 사이트를 이용해 본 적이 있나요? 에 대한 응답](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/ceaa09de-69ac-4373-a5ca-42ee12815e6e/Untitled.png)
+![기업들의 공개채욕 혹은 상시 채용 공지를 한 곳에 모아서 보여주는 웹 사이트를 이용해 본 적이 있나요? 에 대한 응답](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/b1acc603-359e-415d-b66a-6e0814b4649e)
 
 기업들의 공개채욕 혹은 상시 채용 공지를 한 곳에 모아서 보여주는 웹 사이트를 이용해 본 적이 있나요? 에 대한 응답
 
-![Link IT을 이용해 볼 의사가 있으신가요? 에 대한 응답](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/22b258f7-1b48-4ee4-a92b-98fd7f812536/Untitled.png)
+![Link IT을 이용해 볼 의사가 있으신가요? 에 대한 응답](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/88b81512-564b-48a6-b6af-dc331a442086)
 
 Link IT을 이용해 볼 의사가 있으신가요? 에 대한 응답
 
@@ -50,19 +60,19 @@ Link IT을 이용해 볼 의사가 있으신가요? 에 대한 응답
 
 ## 4.1 일정
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/6f689fca-535a-4477-8f3b-0eb98a12ca74/Untitled.png)
+![Untitled](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/5b391f33-1323-46d7-a7e1-4d73aa413745)
 
 ## 4.2 마일스톤 예측
 
-![스크린샷 2024-04-07 오후 10.09.02.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/ec0938d0-57dd-4267-8ece-1354fbb2dc78/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-04-07_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_10.09.02.png)
+![스크린샷 2024-04-07 오후 10.09.02.png](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/91885395-6648-4668-8c82-c85863874030)
 
 ## 5. 필요 자원
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/cb400222-29f0-4be4-8a51-a0820aae35c8/Untitled.png)
+![Untitled](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/af5573a4-d949-4a4a-bb0e-1b71b76cecb3)
 
 ## 6. 예산 예측치
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/259b3ae3-276a-4199-9cf2-09ac47e23921/432bbb35-c428-498c-9a8a-df7d6c50bc10/Untitled.png)
+![Untitled](https://github.com/Software-Engineering-0795-team1/Back-end/assets/129194613/2ee4fb30-6386-46aa-9581-c18b13a55f0b)
 
 - 최대 비용은 인원 이탈 및 증원, 프로젝트 기간 초과를 고려하여 산출하였다.
 - 홍보는 소셜미디어, Youtube, 인터넷 광고 등 대중매체를 이용한다.
