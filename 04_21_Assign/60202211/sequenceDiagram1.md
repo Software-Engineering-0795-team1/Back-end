@@ -1,0 +1,1 @@
+![이력서 저장 drawio](https://github.com/Software-Engineering-0795-team1/Back-end/assets/144649271/f8bb4fa4-013c-40f8-89b6-2f049b06ce38)
