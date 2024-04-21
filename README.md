@@ -1,7 +1,7 @@
 # Back-end
 Back-end Repository
 
-Team name: 카잡
+Team name: 링크잇 (link it)
 
 Name  Student ID
 
