@@ -1,0 +1,6 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûŒØ8ô…Úçø1J$1905a818-a6ec-48fe-870d-a05dcd056e8b
+Œ
+java:S1128"IRemove this unused import 'com.example.linkit.Service.TagSearchStrategy'.(ÿï¤8¢¥Ûˆù1J$804b784b-a3f8-4c38-9bb6-8bc7284bd1da
+„
+java:S1068"<Remove this unused "tagSearchStrategyFactory" private field.(™æŒÇùÿÿÿÿ8õÛˆù1J$719cdb9e-c148-4d47-9b46-e967886bf3e7

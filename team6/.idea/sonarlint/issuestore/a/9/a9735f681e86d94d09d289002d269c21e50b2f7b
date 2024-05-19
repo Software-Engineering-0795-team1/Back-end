@@ -1,0 +1,6 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûŒØJ$7ed8ea11-1cc4-4a8a-9273-2897db4e96a6
+…
+java:S1128"BRemove this unused import 'com.example.linkit.Model.UserObserver'.(ÅÎ·§8 úÕˆù1J$4ff2d6f6-6588-474e-ace0-e1ccaab35d76
+
+java:S1068"7Remove this unused "notificationService" private field.(îõÂçúÿÿÿÿ8–ÎÖˆù1J$857f2aa9-3619-4675-979d-f9276e973256

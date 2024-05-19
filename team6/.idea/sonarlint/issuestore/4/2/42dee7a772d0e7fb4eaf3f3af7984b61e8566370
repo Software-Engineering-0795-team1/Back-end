@@ -1,0 +1,10 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûŒØ8²ÅÓ„ù1J$6f7aa671-600e-49f9-839f-a850e87401bb
+
+java:S1172"JRemove these unused method parameters "name", "email", "password", "role".(Í‘ùó8ğÌİˆù1J$48d71f3a-a817-44b5-be63-93a4d800a7cf
+‰
+java:S1128"ARemove this unused import 'com.example.linkit.Model.UserBuilder'.(İ’ùŒúÿÿÿÿ8ø£ãˆù1J$9740ddc7-a0e9-4e55-90bd-a692ec0a66e0
+q
+java:S1068".Remove this unused "userFacade" private field.(æÁâœ8Ö¸áˆù1J$2d04f35b-cde3-4a1b-a5fb-145f8b702ff8
+w
+java:S1068"4Remove this unused "recruiterService" private field.(Ş¢×™8¹€ãˆù1J$993160e9-1c77-4ebf-b182-31dcea9a6f65

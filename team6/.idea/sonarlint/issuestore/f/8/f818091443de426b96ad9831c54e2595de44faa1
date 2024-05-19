@@ -1,0 +1,7 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îï¬ÐJ$b902abaa-ce8b-4b74-ab4e-6c676b9b2d31
+M
+java:S1172"0Remove this unused method parameter "projectId".(ÐßÜÞ8Ñ×áçø1
+H
+java:S1172*"+Remove this unused method parameter "user".(ê»×š8Ò×áçø1
+L	java:S1061"+Replace this use of System.out by a logger.(ðÕ°ýúÿÿÿÿ8Ò×áçø1
